@@ -1,7 +1,7 @@
 # Introduction #
 My name is Yashaswi Sharma and welcome to my github repository for all my projects in CMSC 330 at the University of Maryland. 
 
-## Protection of Intellectual Property##
+## Protection of Intellectual Property
 Quick Note: I have uploaded all files that I have personally made along with READMEs and some public tests given by instructors as
 reference to my files. None of this should be distributed or used for private gain by any employer/persons, but is instead supposed to provide
 employers with information regarding my software engineering and logical analysis capacities. 
