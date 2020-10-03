@@ -1,11 +1,12 @@
-***Introduction***
+#Introduction#
 My name is Yashaswi Sharma and welcome to my github repository for all my projects in CMSC 330 at the University of Maryland. 
 
+##Protection of Intellectual Property##
 Quick Note: I have uploaded all files that I have personally made along with READMEs and some public tests given by instructors as
 reference to my files. None of this should be distributed or used for private gain by any employer/persons, but is instead supposed to provide
 employers with information regarding my software engineering and logical analysis capacities. 
 
-**Project 1:**
+##Project 1##
 Project 1 involves creating a maze with inputs by user.
 *Files Made by Me*
 maze.rb
@@ -14,7 +15,7 @@ maze.rb
 public.rb
 "README Project 1".md
 
-**Project 2**
+##Project 2##
 Basic usage of ocaml syntax such as matching, Higher Ordered Functions, Currying, etc.
 **Part A**
 *Files Made by Me*
@@ -33,7 +34,7 @@ data.ml
 public.rb
 "README Project 2b".md
 
-**Project 4**
+##Project 4##
 Construction of a lexer and parser for language "Small C"
 **Part A**
 *Files Made by Me*
@@ -53,7 +54,7 @@ eval.ml
 public.rb
 "README Project 4b".md
 
-**Project 5**
+##Project 5##
 controller.rb already made the website, we had to add different aspects to the back-end to be able to ensure cybersecurity protections such as XSS attacks, SQL injections, etc.
 *Files Made by Me*
 controller.rb
